@@ -1,0 +1,67 @@
+    1  curl -s https://raw.github.com/xdissent/ievms/master/ievms.sh | IEVMS_VERSIONS="8" bash
+    2  java -version
+    3  git --version
+    4  git --version
+    5  node -v
+    6  npm install -g bower
+    7  bower install angular
+    8  sudo npm install -g bower
+    9  clear
+   10  pwd
+   11  clear
+   12  pwd
+   13  clear
+   14  ssh-keygen -t rsa
+   15  clear
+   16  clear
+   17  pwd
+   18  clear
+   19  ls
+   20  clear
+   21  clar
+   22  clear
+   23  ls
+   24  clear
+   25  ls
+   26  clear
+   27  clear
+   28  ls
+   29  ls
+   30  clear
+   31  pwd
+   32  ls
+   33  ssh-keygen -t rsa
+   34  clear
+   35  pwd
+   36  clear
+   37  ls
+   38  clear
+   39  cd ~/.ssh
+   40  clear
+   41  ls
+   42  open -a textedit id_rsa.pub
+   43  clear
+   44  pwd
+   45  clear
+   46  clear
+   47  pwd
+   48  cd ~/desktop
+   49  mkdir test
+   50  cd test
+   51  git init
+   52  touch data.txt
+   53  echo 'Hello World' >> data.txt
+   54  git add .
+   55  git commit -m 'test'
+   56  git config --global user.email sarmasika@gmail.com
+   57  git commit -m 'test'
+   58  git add .
+   59  git commit -m 'test'
+   60  ls
+   61  git remote add github git@github.com:AliyeAngular/test.git
+   62  git push github master
+   63  echo 'some more' >> data.txt
+   64  git add .
+   65  git commit -m 'test'
+   66  git push github master
+   67  history > commands.txt
